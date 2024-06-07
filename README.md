@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Website based projects
 - 📫 Reach me out here anubhavjha0812@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ... The moon is actually moving away from Earth at a rate of about 3.8 centimeters (1.5 inches) per year.
 
 <!---
