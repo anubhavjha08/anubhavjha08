@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @anubhavjha08
-- 👀 I’m interested in Development of Websites, Machine learning, Finance
+- 👋 Hi, I’m Anubhav
+- 👀 I’m interested in Development of Web Applications, Machine learning, Finance
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Website based projects
 - 📫 Reach me out here anubhavjha0812@gmail.com
